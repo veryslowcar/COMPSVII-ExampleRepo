@@ -4,6 +4,3 @@ My Grocery List
 - Potato Chips
 - Eggs
 - Butter
-- Sugar
-- Lemons
-- Cucumbers
